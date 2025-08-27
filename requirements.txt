@@ -1,0 +1,5 @@
+Flask>=3.0
+pypdf>=5.0
+PyMuPDF>=1.23
+werkzeug
+Pillow
